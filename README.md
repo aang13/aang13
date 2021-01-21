@@ -66,3 +66,5 @@ Here are some ideas to get you started:
      alt="django" height="30" style="vertical-align:top; margin:10px"> 
 </p>
 
+
+- 🌱 I’m currently learning Node.js and working on some other projects.
