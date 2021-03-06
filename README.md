@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 </p>
 
 
-- 🌱 I’m currently learning Node.js and working on some other projects.
+<!-- 🌱 I’m currently learning Node.js and working on some other projects.
+--!>
 
 - 📫 How to reach me: mdmoinulh13@gmail.com
