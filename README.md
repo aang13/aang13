@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=aang13)](https://github.com/ryo-ma/github-profile-trophy)
 ![Moinul's github stats](https://github-readme-stats.vercel.app/api?username=aang13&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aang13&langs_count=7&hide=html,css&layout=compact)](https://github.com/aang13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aang13&langs_count=14&hide=html,css&layout=compact)](https://github.com/aang13/github-readme-stats)
 
 ### Languages and Tools:
 <p align="right">
