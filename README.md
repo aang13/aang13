@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/11940561/aang13"><img src="https://stackoverflow.com/users/flair/11940561.png?theme=clean" width="208" height="58" alt="profile for aang13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for aang13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ### Languages and Tools:
-<p align="right">
+<p align="left">
 <img 
      src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" 
      alt="Java" height="80" style="vertical-align:top; margin:4px">
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Frameworks:
-<p align="right">
+<p align="left">
 <img 
      src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" 
      alt="spring-boot" height="30" style="vertical-align:top; margin:10px">
