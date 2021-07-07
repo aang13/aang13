@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <!--  <img 
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png" 
      alt="Vim" height="50" style="vertical-align:top; margin:4px"> -->
-  <img 
+<!--   <img 
      src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" 
      alt="HTML" height="50" style="vertical-align:top; margin:4px">
   <img 
@@ -51,23 +51,23 @@ Here are some ideas to get you started:
      alt="CSS" height="50" style="vertical-align:top; margin:4px">
   <img 
      src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" 
-     alt="Bootstrap" height="50" style="vertical-align:top; margin:4px">
+     alt="Bootstrap" height="50" style="vertical-align:top; margin:4px"> -->
 </p>
 
 ### Frameworks:
 <p align="left">
 <img 
      src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" 
-     alt="spring-boot" height="30" style="vertical-align:top; margin:10px">
+     alt="spring-boot" height="50" style="vertical-align:top; margin:10px">
 <img 
      src="https://www.logolynx.com/images/logolynx/08/08bc1e1ab432c9d956566b235925dd47.png" 
-     alt="NodeJS" height="30" style="vertical-align:top; margin:10px">
-<img 
+     alt="NodeJS" height="50" style="vertical-align:top; margin:10px">
+<!-- <img 
      src="https://transang.me/content/images/2019/11/ExpressJS.png"
-     alt="expressJS" height="30" style="vertical-align:top; margin:10px">
+     alt="expressJS" height="50" style="vertical-align:top; margin:10px"> -->
 <img 
      src="https://www.vhv.rs/dpng/d/443-4430861_django-python-logo-png-png-download-django-python.png" 
-     alt="django" height="30" style="vertical-align:top; margin:10px"> 
+     alt="django" height="50" style="vertical-align:top; margin:10px"> 
 </p>
 
 
