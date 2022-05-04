@@ -12,13 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/md-moinul-hossain-96758a135/)
+[![Twitter URL](https://img.shields.io/static/v1?color=deepskyblue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/MdMoinu01875401)
+
+
+| GitHub | Stackoverflow Status |
+| --------------- | -------------------- |
+| ![Visitors](https://komarev.com/ghpvc/?username=aang13&color=brightgreen) | <a href="https://stackoverflow.com/users/11940561/aang13"><img src="https://stackoverflow.com/users/flair/11940561.png?" width="208" height="58" alt="profile for aang13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for aang13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> |
+
+<br/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=aang13)](https://github.com/ryo-ma/github-profile-trophy)
 ![Moinul's github stats](https://github-readme-stats.vercel.app/api?username=aang13&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aang13&langs_count=14&hide=html,css,scss&layout=compact)](https://github.com/aang13/github-readme-stats)
 
-### My Stackoverflow profile
-
-<a href="https://stackoverflow.com/users/11940561/aang13"><img src="https://stackoverflow.com/users/flair/11940561.png?" width="208" height="58" alt="profile for aang13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for aang13 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ### Languages and Tools:
 <p align="left">
@@ -62,9 +69,9 @@ Here are some ideas to get you started:
 <img 
      src="https://www.logolynx.com/images/logolynx/08/08bc1e1ab432c9d956566b235925dd47.png" 
      alt="NodeJS" height="50" style="vertical-align:top; margin:10px">
-<!-- <img 
-     src="https://transang.me/content/images/2019/11/ExpressJS.png"
-     alt="expressJS" height="50" style="vertical-align:top; margin:10px"> -->
+<img 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+     alt="ReactJs" height="50" style="vertical-align:top; margin:10px">
 <img 
      src="https://www.vhv.rs/dpng/d/443-4430861_django-python-logo-png-png-download-django-python.png" 
      alt="django" height="50" style="vertical-align:top; margin:10px"> 
