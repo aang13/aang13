@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 <img 
      src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" 
      alt="Java" height="80" style="vertical-align:top; margin:4px">
+ <img 
+     src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" 
+     alt="Python" height="50" style="vertical-align:top; margin:4px">
 <img 
      src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" 
      alt="Javascript" height="50" style="vertical-align:top; margin:4px">
@@ -41,9 +44,6 @@ Here are some ideas to get you started:
 <img 
      src="https://img.icons8.com/color/452/c-plus-plus-logo.png" 
      alt="C++" height="50" style="vertical-align:top; margin:4px"> 
- <img 
-     src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" 
-     alt="Python" height="50" style="vertical-align:top; margin:4px">
 <!--  <img 
      src="https://bashlogo.com/img/logo/jpg/full_colored_dark.jpg" 
      alt="Bash" height="50" style="vertical-align:top; margin:4px"> -->
@@ -67,14 +67,11 @@ Here are some ideas to get you started:
      src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" 
      alt="spring-boot" height="50" style="vertical-align:top; margin:10px">
 <img 
-     src="https://www.logolynx.com/images/logolynx/08/08bc1e1ab432c9d956566b235925dd47.png" 
-     alt="NodeJS" height="50" style="vertical-align:top; margin:10px">
+     src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" 
+     alt="fastAPI" height="50" style="vertical-align:top; margin:10px">
 <img 
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
      alt="ReactJs" height="50" style="vertical-align:top; margin:10px">
-<img 
-     src="https://www.vhv.rs/dpng/d/443-4430861_django-python-logo-png-png-download-django-python.png" 
-     alt="django" height="50" style="vertical-align:top; margin:10px"> 
 </p>
 
 
