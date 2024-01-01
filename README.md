@@ -72,6 +72,10 @@ Here are some ideas to get you started:
 <img 
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
      alt="ReactJs" height="50" style="vertical-align:top; margin:10px">
+<img 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/800px-Ruby_On_Rails_Logo.svg.png"
+     alt="Ruby on Rails" height="50" style="vertical-align:top; margin:10px">
+     
 </p>
 
 
